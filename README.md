@@ -8,7 +8,7 @@
 
 -   I`m always tryng to adhere to PEP8 in my code :point_up:
 
--   🌱 I’m currently learning Django python framework
+-   🌱 I’m currently learning Django framework
 
 -   :eyes: I’m looking for my first job as a Python developer :computer:
 
