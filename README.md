@@ -22,7 +22,7 @@
 
 ### My Languages and Tools:
 
-**· Python · FastAPI · HTML · CSS · SQL · Git · Linux · VSCode ·**
+**· Python · FastAPI ·bs4 · Scrapy + Splash · Selenium · HTML · CSS · SQL · Git · Linux · VSCode ·**
 
 <br />
 
