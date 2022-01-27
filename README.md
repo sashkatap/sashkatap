@@ -1,4 +1,4 @@
-## Hi 👋 I’m Alexander Gerasimov, a beginner Python developer
+## Hi 👋 I’m Alexander Gerasimov, a Junior Data Analyst
 
 <br />
 
@@ -8,11 +8,9 @@
 
 -   I`m always tryng to adhere to PEP8 in my code :point_up:
 
--   🌱 I’m currently learning Django framework
+-   I’m currently learning: Pandas, NumPy, Seaborn, Matplotlib and ohters DA & DS Python's frameworks
 
--   :eyes: I’m looking for my first job as a Python developer :computer:
-
--   👯 I'm looking to collaborate on an open source project
+-   :eyes: I’m looking for my first job as a Data Analyst :computer:
 
 -   💬 I've got Upper-Intermediate :uk: english level, so feel free to [contact me](mailto:isashkatap@gmail.com)
 
@@ -22,7 +20,7 @@
 
 ### My Languages and Tools:
 
-**· Python · FastAPI ·bs4 · Scrapy + Splash · Selenium · HTML · CSS · SQL · Git · Linux · VSCode ·**
+**· HTML · CSS · SQL · Git · Docker · Linux · Python · Jupyter notebook · Pandas · NumPy · Seaborn · Matplotlib · VSCode · Requests · BeautifulSoup · Scrapy · Selenium ·**
 
 <br />
 
