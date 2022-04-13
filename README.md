@@ -12,7 +12,7 @@
 
 -   :eyes: I’m looking for my first job as a Data Analyst :computer:
 
--   💬 I've got Upper-Intermediate :uk: english level, so feel free to [contact me](mailto:isashkatap@gmail.com)
+-   💬 I've got Upper-Intermediate :uk: english level, so feel free to [contact me](mailto:sashkatap@vk.com)
 
 -   ⚡ I’m inspired by Minimalism :+1: and «Ordnung muss sein» :exclamation:
 
